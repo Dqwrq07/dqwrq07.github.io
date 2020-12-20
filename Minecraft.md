@@ -1,7 +1,3 @@
-<?php include('allpage.php') ?>
-
-<DOCTYPE !html>
-
 <html>
 	<head>
 		<title>Minecraft</title>
