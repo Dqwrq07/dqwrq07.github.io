@@ -11,7 +11,9 @@ body{
 header {
 	background: lightgreen;
 	padding: 15px;
+	font-family: arial;
 }
 section {
 	margin: 1%;
+	font-family: verdana;
 }
